@@ -1,3 +1,7 @@
+Voice_Emotion_Detector
+
+Create a feature to predict the emotion using the audio file where we can record a voice as well as upload a voice note in the model.For an example If the voice note contains happy emotion it should say its happy , like wise it should predict all emotions using voice note.This should work for only female voices not for other voices . If we upload or record other thing female voice it should say like upload female voice.The voice should be in english language only and it should reject other language voice records.
+
 The following folder contains varios files:
 Speech Emotion Recognition with Convolutional Neural Network 
 => final jupyter notebook file with code of project
