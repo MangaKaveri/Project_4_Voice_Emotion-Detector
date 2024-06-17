@@ -1,5 +1,5 @@
 The following folder contains varios files:
-Speech Emotion Recognition with Convolutional Neural Network - Diego Rios - final.ipynb
+Speech Emotion Recognition with Convolutional Neural Network 
 => final jupyter notebook file with code of project
 
 
@@ -19,5 +19,5 @@ capstone_project_emotion_detection_final_version.json
 => files with trained model
 
 Report
-Speech Emotion Recognition with Convolutional Neural Network - Diego Rios Report
+Speech Emotion Recognition with Convolutional Neural Network 
 => final report for capstone project
